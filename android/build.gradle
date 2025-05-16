@@ -22,6 +22,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace "com.pda_rfid_scanner"
+
     compileSdkVersion 31
 
     compileOptions {
