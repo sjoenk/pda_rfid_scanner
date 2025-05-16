@@ -454,7 +454,7 @@ public class PdaRfidScannerPlugin implements FlutterPlugin, MethodCallHandler, A
   /**
    * Static method for compatibility with older Flutter versions
    */
-  public static void registerWith(Registrar registrar) {
-    // Compatibility with old Flutter
-  }
+//  public static void registerWith(Registrar registrar) {
+//    // Compatibility with old Flutter
+//  }
 }
