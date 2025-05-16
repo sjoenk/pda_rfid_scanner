@@ -25,7 +25,7 @@ import android.util.Log;
 
 import java.math.BigInteger;
 import java.io.IOException;
-import io.flutter.plugin.common.PluginRegistry.Registrar;
+//import io.flutter.plugin.common.PluginRegistry.Registrar;
 
 import com.pda_rfid_scanner.utils.LFUtil;
 
